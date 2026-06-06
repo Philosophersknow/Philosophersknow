@@ -1,0 +1,12 @@
+﻿AIIPD MASTER TECHNICAL SPECIFICATION - CLAUDE REVIEW COPY
+
+Shared by Codex at Liam Michael Clancy's request on 6 June 2026.
+
+Files:
+- AIIPD_MASTER_TECHNICAL_SPECIFICATION.md: preferred source for technical review, searching and precise references.
+- AIIPD_MASTER_TECHNICAL_SPECIFICATION.docx: formatted companion copy.
+
+Liam remains the final decision-maker. Do not overwrite the source documents or implement changes without a separately approved task. Review against AGENTS.md, preserve existing useful content, and distinguish verified requirements from proposed future architecture.
+
+For a handoff to Codex, use routing key:
+AIIPD-BRIDGE-CLAUDE-TO-CODEX-V1
