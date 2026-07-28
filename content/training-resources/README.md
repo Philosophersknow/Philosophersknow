@@ -2,7 +2,7 @@
 
 **Publisher:** Liam Michael Clancy / Philosophersknow
 **Status:** Draft library — all content requires Liam's review before commercial release
-**Current inventory:** 45 documents · ~88,000 words · 9 training packages
+**Current inventory:** 58 documents · ~135,000 words · 9 training packages
 
 ---
 
@@ -36,10 +36,10 @@ See `content/marketing/RTO-RESOURCES-MARKETING-PLAN.md` for pricing, segments, a
 
 ## Coverage by Training Package
 
-### ✅ Complete — all core units
+### ✅ Core complete — every core unit covered
 
 #### CHC33021 — Certificate III in Individual Support
-*CHC Community Services Training Package · 8 documents*
+*CHC Community Services · 8 documents*
 
 | Document | Unit Title |
 |---|---|
@@ -54,7 +54,7 @@ See `content/marketing/RTO-RESOURCES-MARKETING-PLAN.md` for pricing, segments, a
 | [HLTWHS002](CHC33021/HLTWHS002-unit-guide.md) | Follow safe work practices for direct client care |
 
 #### BSB30120 — Certificate III in Business
-*BSB Business Services Training Package · 7 documents*
+*BSB Business Services · 7 documents*
 
 | Document | Unit Title |
 |---|---|
@@ -67,7 +67,7 @@ See `content/marketing/RTO-RESOURCES-MARKETING-PLAN.md` for pricing, segments, a
 | [BSBXCM301](BSB30120/BSBXCM301-unit-guide.md) | Engage in workplace communication |
 
 #### CPP41419 — Certificate IV in Real Estate Practice
-*CPP Property Services Training Package · 11 documents*
+*CPP Property Services · 11 documents*
 
 | Document | Unit Title |
 |---|---|
@@ -83,25 +83,56 @@ See `content/marketing/RTO-RESOURCES-MARKETING-PLAN.md` for pricing, segments, a
 | [CPPREP4121](CPP41419/CPPREP4121-unit-guide.md) | Establish and maintain property management relationships |
 | [CPPREP4123](CPP41419/CPPREP4123-unit-guide.md) | Manage tenancy |
 
+#### ICT30120 — Certificate III in Information Technology
+*ICT Information and Communications Technology · 5 documents*
+
+| Document | Unit Title |
+|---|---|
+| [Qualification overview](ICT30120/ICT30120-qualification-overview.md) | 6 core + 12 elective, employment pathways |
+| [BSBXCS303](ICT30120/BSBXCS303-unit-guide.md) | Securely manage personally identifiable and workplace information |
+| [ICTICT313](ICT30120/ICTICT313-unit-guide.md) | Identify IP, ethics and privacy policies in ICT environments |
+| [ICTICT323](ICT30120/ICTICT323-unit-guide.md) | Align work practices with the ICT industry environment |
+| [ICTSAS305](ICT30120/ICTSAS305-unit-guide.md) | Provide ICT advice to clients |
+
+*Remaining core units BSBSUS211 and BSBCRT301 are covered by the BSB30120 pack — see [BSBSUS211](BSB30120/BSBSUS211-unit-guide.md) and [BSBCRT311](BSB30120/BSBCRT311-unit-guide.md).*
+
+#### CUA31120 — Certificate III in Screen and Media
+*CUA Creative Arts and Culture · 6 documents*
+
+| Document | Unit Title |
+|---|---|
+| [Qualification overview](CUA31120/CUA31120-qualification-overview.md) | 6 core + 10 elective, production phases, copyright |
+| [CUADIG303](CUA31120/CUADIG303-unit-guide.md) | Produce and prepare photo images |
+| [CUAIND311](CUA31120/CUAIND311-unit-guide.md) | Develop and apply creative arts industry knowledge |
+| [CUAIND312](CUA31120/CUAIND312-unit-guide.md) | Work effectively in the creative arts industry |
+| [CUAPPR311](CUA31120/CUAPPR311-unit-guide.md) | Develop and apply techniques to document and present ideas |
+| [CUASOU313](CUA31120/CUASOU313-unit-guide.md) | Record sound |
+
+*Remaining core unit BSBCRT311 is covered by the BSB30120 pack — see [BSBCRT311](BSB30120/BSBCRT311-unit-guide.md).*
+
 ---
 
-### 🔨 In progress — overview plus priority units
+### 🔨 Substantial coverage — apprenticeship-scale packages
+
+These qualifications have 20+ core units each. The units built are the highest-value ones: the safety-critical units every student must pass, and the technically demanding units where students most need worked examples.
 
 #### CPC30220 — Certificate III in Carpentry
-*CPC Construction, Plumbing and Services · 4 of ~21 core units*
+*CPC Construction, Plumbing and Services · 6 of ~21 core units*
 
 | Document | Unit Title |
 |---|---|
 | [Qualification overview](CPC30220/CPC30220-qualification-overview.md) | 21 core + 6 elective, apprenticeship structure |
 | [CPCCWHS2001](CPC30220/CPCCWHS2001-unit-guide.md) | Apply WHS requirements in the construction industry |
+| [CPCCCM2012](CPC30220/CPCCCM2012-unit-guide.md) | Work safely at heights |
 | [CPCCCM2001](CPC30220/CPCCCM2001-unit-guide.md) | Read and interpret plans and specifications |
 | [CPCCCM1012](CPC30220/CPCCCM1012-unit-guide.md) | Work productively and sustainably in construction |
 | [CPCCCA3003](CPC30220/CPCCCA3003-unit-guide.md) | Set out and frame walls and floors |
+| [CPCCCA3002](CPC30220/CPCCCA3002-unit-guide.md) | Set out and frame a roof |
 
-**Next priority:** CPCCCA3002 (set out and frame a roof) · CPCCCA3001 (door and window units) · CPCCM2012 (work safely at heights)
+**Next priority:** CPCCCA3001 (door and window units) · CPCCCA3004 (erect and clad a roof) · CPCCCA2002 (carpentry tools) · CPCCM2006 (basic levelling)
 
 #### SIT30821 — Certificate III in Commercial Cookery
-*SIT Tourism, Travel and Hospitality · 3 of 21 core units*
+*SIT Tourism, Travel and Hospitality · 5 of 21 core units*
 
 | Document | Unit Title |
 |---|---|
@@ -109,29 +140,32 @@ See `content/marketing/RTO-RESOURCES-MARKETING-PLAN.md` for pricing, segments, a
 | [SITXFSA005](SIT30821/SITXFSA005-unit-guide.md) | Use hygienic practices for food safety |
 | [SITXFSA006](SIT30821/SITXFSA006-unit-guide.md) | Participate in safe food handling practices |
 | [SITHCCC027](SIT30821/SITHCCC027-unit-guide.md) | Prepare dishes using basic methods of cookery |
+| [SITHCCC029](SIT30821/SITHCCC029-unit-guide.md) | Prepare stocks, sauces and soups |
+| [SITHCCC042](SIT30821/SITHCCC042-unit-guide.md) | Prepare food to meet special dietary requirements |
 
-**Next priority:** SITHCCC029 (stocks, sauces, soups) · SITHCCC042 (special dietary requirements) · SITXWHS005 (safe work practices)
+**Next priority:** SITXWHS005 (safe work practices) · SITHCCC043 (work effectively as a cook) · SITXINV006 (receive, store and maintain stock) · SITHCCC041 (cakes, pastries and breads)
 
-#### ICT30120 — Certificate III in Information Technology
-*ICT Information and Communications Technology · 2 of 6 core units*
+#### AUR30620 — Certificate III in Light Vehicle Mechanical Technology
+*AUR Automotive Retail, Service and Repair · 3 of 20 core units*
 
 | Document | Unit Title |
 |---|---|
-| [Qualification overview](ICT30120/ICT30120-qualification-overview.md) | 6 core + 12 elective, employment pathways |
-| [ICTICT313](ICT30120/ICTICT313-unit-guide.md) | Identify IP, ethics and privacy policies in ICT |
-| [ICTSAS305](ICT30120/ICTSAS305-unit-guide.md) | Provide ICT advice to clients |
+| [Qualification overview](AUR30620/AUR30620-qualification-overview.md) | 20 core + 6 elective, apprenticeship, EV transition |
+| [AURAFA004](AUR30620/AURAFA004-unit-guide.md) | Establish and maintain safe automotive workplace practices |
+| [AURTTA003](AUR30620/AURTTA003-unit-guide.md) | Diagnose and repair automotive systems and components |
 
-**Next priority:** BSBXCS303 (securely manage PII) · ICTICT323 (align work practices with ICT industry)
+**Next priority:** AURAFA003 (tools and equipment) · AURASA103 (vehicle safety inspections) · AURETR124 (inspect and test electrical circuits) · AURLTX107 (servicing operations)
 
----
+#### RII30820 — Certificate III in Civil Construction
+*RII Resources and Infrastructure · 3 of 12 core units*
 
-### 📋 Foundation laid — overview plus one unit
+| Document | Unit Title |
+|---|---|
+| [Qualification overview](RII30820/RII30820-qualification-overview.md) | 12 core + 8 elective, Dial Before You Dig, traffic management |
+| [RIIWHS201E](RII30820/RIIWHS201E-unit-guide.md) | Work safely and follow WHS policies and procedures |
+| [RIIRIS301E](RII30820/RIIRIS301E-unit-guide.md) | Apply risk management processes |
 
-| Qualification | Documents | Next priority units |
-|---|---|---|
-| [CUA31120](CUA31120/CUA31120-qualification-overview.md) — Screen and Media | Overview + [CUAIND312](CUA31120/CUAIND312-unit-guide.md) | CUAIND311, CUASOU313, CUADIG303 |
-| [AUR30620](AUR30620/AUR30620-qualification-overview.md) — Light Vehicle Mechanical | Overview + [AURAFA004](AUR30620/AURAFA004-unit-guide.md) | AURAFA003, AURTTA003, AURASA103 |
-| [RII30820](RII30820/RII30820-qualification-overview.md) — Civil Construction | Overview + [RIIWHS201E](RII30820/RIIWHS201E-unit-guide.md) | RIIRIS301E, RIICCM201D, RIIWHS302D |
+**Next priority:** RIICCM201D (measurements and calculations) · RIIWHS302D (implement traffic management plans) · RIIWHS202E (confined spaces) · RIICMT201D (basic materials testing)
 
 ---
 
@@ -140,9 +174,10 @@ See `content/marketing/RTO-RESOURCES-MARKETING-PLAN.md` for pricing, segments, a
 Content marked `[VERIFY: ...]` requires confirmation against a live source before commercial release. These flags concentrate in areas that change:
 
 - **Training package versions and unit codes** — confirm against training.gov.au. The CPC, SIT, ICT, CUA, AUR and RII packages are all revised on cycles independent of this library.
-- **State-specific licensing** — real estate licensing tiers, builder registration thresholds, food safety supervisor requirements
-- **Notice periods and statutory timeframes** — tenancy notice periods, bond lodgement windows, cooling-off periods
-- **Exposure standards and thresholds** — respirable crystalline silica, excavation depth triggers, principal contractor value thresholds
+- **State-specific licensing** — real estate licensing tiers, builder registration thresholds, food safety supervisor requirements, High Risk Work Licence classes
+- **Notice periods and statutory timeframes** — tenancy notice periods, bond lodgement windows, cooling-off periods, NDB assessment windows
+- **Exposure standards and thresholds** — respirable crystalline silica, excavation depth triggers, fall height triggers, principal contractor value thresholds
+- **Technical standards** — ASCIA anaphylaxis action plans, IDDSI framework levels, ACSC Essential Eight maturity model, declarable allergen list, AS/NZS fall arrest ratings
 - **Rates and entitlements** — superannuation guarantee, award rates, screen production offsets
 
 A `[VERIFY]` flag is not a defect. It marks content that is correct as written but time-sensitive, and identifies exactly what a reviewer needs to check.
@@ -153,13 +188,15 @@ A `[VERIFY]` flag is not a defect. It marks content that is correct as written b
 
 **Voice:** Direct, professional, addressed to the student as an adult. No motivational filler, no exclamation marks, no "you've got this."
 
-**Worked examples:** Scenarios use named people in realistic situations with genuine complexity — a landlord asking for something unlawful, a supervisor directing unsafe work, a colleague working after gastroenteritis. Assessment scenarios that are too clean teach students to recognise textbook cases they will never encounter.
+**Worked examples:** Scenarios use named people in realistic situations with genuine complexity — a landlord asking for something unlawful, a supervisor directing unsafe work, a colleague working after gastroenteritis, a payroll spreadsheet sent to the wrong Dave. Assessment scenarios that are too clean teach students to recognise textbook cases they will never encounter.
 
 **Examiner annotations:** Explain *why* a response is competent, not just that it is. Where an insufficient response is shown, the annotation identifies the specific gap that produced the NYC.
 
 **Legislation:** Cited with full name and year on first reference. State variation is flagged rather than flattened into a false national position.
 
-**Ethical positions:** Where a unit involves an ethical dimension — refusing an unlawful instruction, exercising the right to cease unsafe work, declining work beyond your competence — the guides take a clear position rather than presenting it as a balanced judgement call. A student who learns to equivocate about dummy bidding or racial discrimination in tenant selection has been badly served.
+**Calculations are worked, not asserted.** Where a unit involves calculation — rafter geometry, fall clearance, fuel trim interpretation, risk rating — the worked example shows the arithmetic and explains what each step means. Students need to see the reasoning, not just the answer.
+
+**Ethical positions:** Where a unit involves an ethical dimension — refusing an unlawful instruction, exercising the right to cease unsafe work, declining work beyond your competence, discarding food that will look and smell fine — the guides take a clear position rather than presenting it as a balanced judgement call. A student who learns to equivocate about dummy bidding, racial discrimination in tenant selection, or serving a nut-allergic customer from a contaminated section has been badly served.
 
 ---
 
@@ -178,16 +215,18 @@ A `[VERIFY]` flag is not a defect. It marks content that is correct as written b
 
 ## Build Priorities
 
-**Immediate (completes the in-progress packages):**
-1. CPC30220 — 3 further units (roof framing, openings, work at heights)
-2. SIT30821 — 3 further units (stocks/sauces/soups, dietary requirements, WHS)
-3. ICT30120 — 2 further core units (completes ICT core)
+**Commercially releasable now:** CHC33021, BSB30120, CPP41419, ICT30120, CUA31120 — all core units covered, subject to `[VERIFY]` review.
+
+**Next build phase:**
+1. CPC30220 — 4 further units to cover the practical carpentry core
+2. SIT30821 — 4 further units to cover kitchen operations and WHS
+3. AUR30620 — 4 further units to cover tools, inspection, and electrical
+4. RII30820 — 4 further units to complete the civil core
 
 **Then:**
-4. CUA31120, AUR30620, RII30820 — 2–3 priority units each
 5. Assessment example bank — 3 additional worked examples per qualification
 6. PDF formatting for commercial release
-7. Quick reference cards (food safety temperatures, service colour codes, span table extracts, DRMC domains)
+7. Quick reference cards — food safety temperatures, service colour codes, rafter multipliers, fall clearance calculator, allergen matrix, DRMC domains
 
 ---
 
