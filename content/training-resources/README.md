@@ -2,7 +2,7 @@
 
 **Publisher:** Liam Michael Clancy / Philosophersknow
 **Status:** Draft library — all content requires Liam's review before commercial release
-**Current inventory:** 58 documents · ~135,000 words · 9 training packages
+**Current inventory:** 77 documents · ~200,000 words · 9 training packages
 
 ---
 
@@ -114,10 +114,10 @@ See `content/marketing/RTO-RESOURCES-MARKETING-PLAN.md` for pricing, segments, a
 
 ### 🔨 Substantial coverage — apprenticeship-scale packages
 
-These qualifications have 20+ core units each. The units built are the highest-value ones: the safety-critical units every student must pass, and the technically demanding units where students most need worked examples.
+These qualifications have 12–21 core units each. The units built are the highest-value ones: the safety-critical units every student must pass, and the technically demanding units where students most need worked examples.
 
 #### CPC30220 — Certificate III in Carpentry
-*CPC Construction, Plumbing and Services · 6 of ~21 core units*
+*CPC Construction, Plumbing and Services · 9 of ~21 core units*
 
 | Document | Unit Title |
 |---|---|
@@ -125,47 +125,79 @@ These qualifications have 20+ core units each. The units built are the highest-v
 | [CPCCWHS2001](CPC30220/CPCCWHS2001-unit-guide.md) | Apply WHS requirements in the construction industry |
 | [CPCCCM2012](CPC30220/CPCCCM2012-unit-guide.md) | Work safely at heights |
 | [CPCCCM2001](CPC30220/CPCCCM2001-unit-guide.md) | Read and interpret plans and specifications |
+| [CPCCCM2006](CPC30220/CPCCCM2006-unit-guide.md) | Apply basic levelling procedures |
 | [CPCCCM1012](CPC30220/CPCCCM1012-unit-guide.md) | Work productively and sustainably in construction |
+| [CPCCCA2002](CPC30220/CPCCCA2002-unit-guide.md) | Use carpentry tools and equipment |
+| [CPCCCA3001](CPC30220/CPCCCA3001-unit-guide.md) | Frame and fit door and window units |
 | [CPCCCA3003](CPC30220/CPCCCA3003-unit-guide.md) | Set out and frame walls and floors |
 | [CPCCCA3002](CPC30220/CPCCCA3002-unit-guide.md) | Set out and frame a roof |
+| [CPCCCA3004](CPC30220/CPCCCA3004-unit-guide.md) | Erect and clad a roof |
 
-**Next priority:** CPCCCA3001 (door and window units) · CPCCCA3004 (erect and clad a roof) · CPCCCA2002 (carpentry tools) · CPCCM2006 (basic levelling)
+**Next priority:** CPCCCA3005 (sheet flooring and wall cladding) · CPCCCA3007 (fix timber to frames and ceilings) · CPCCCM2007 (explosive power tools)
 
 #### SIT30821 — Certificate III in Commercial Cookery
-*SIT Tourism, Travel and Hospitality · 5 of 21 core units*
+*SIT Tourism, Travel and Hospitality · 8 of 21 core units*
 
 | Document | Unit Title |
 |---|---|
 | [Qualification overview](SIT30821/SIT30821-qualification-overview.md) | 21 core + 4 elective, kitchen hierarchy, HACCP |
 | [SITXFSA005](SIT30821/SITXFSA005-unit-guide.md) | Use hygienic practices for food safety |
 | [SITXFSA006](SIT30821/SITXFSA006-unit-guide.md) | Participate in safe food handling practices |
+| [SITXWHS005](SIT30821/SITXWHS005-unit-guide.md) | Participate in safe work practices |
+| [SITXINV006](SIT30821/SITXINV006-unit-guide.md) | Receive, store and maintain stock |
 | [SITHCCC027](SIT30821/SITHCCC027-unit-guide.md) | Prepare dishes using basic methods of cookery |
 | [SITHCCC029](SIT30821/SITHCCC029-unit-guide.md) | Prepare stocks, sauces and soups |
+| [SITHCCC041](SIT30821/SITHCCC041-unit-guide.md) | Produce cakes, pastries and breads |
 | [SITHCCC042](SIT30821/SITHCCC042-unit-guide.md) | Prepare food to meet special dietary requirements |
+| [SITHCCC043](SIT30821/SITHCCC043-unit-guide.md) | Work effectively as a cook |
 
-**Next priority:** SITXWHS005 (safe work practices) · SITHCCC043 (work effectively as a cook) · SITXINV006 (receive, store and maintain stock) · SITHCCC041 (cakes, pastries and breads)
+**Next priority:** SITHCCC035/036/037 (poultry, meat, seafood) · SITHCCC028 (appetisers and salads) · SITHFAB016 (RSA)
 
 #### AUR30620 — Certificate III in Light Vehicle Mechanical Technology
-*AUR Automotive Retail, Service and Repair · 3 of 20 core units*
+*AUR Automotive Retail, Service and Repair · 5 of 20 core units*
 
 | Document | Unit Title |
 |---|---|
 | [Qualification overview](AUR30620/AUR30620-qualification-overview.md) | 20 core + 6 elective, apprenticeship, EV transition |
+| [AURAFA003](AUR30620/AURAFA003-unit-guide.md) | Use and maintain automotive tools and equipment |
 | [AURAFA004](AUR30620/AURAFA004-unit-guide.md) | Establish and maintain safe automotive workplace practices |
+| [AURASA103](AUR30620/AURASA103-unit-guide.md) | Carry out vehicle safety inspections |
+| [AURETR124](AUR30620/AURETR124-unit-guide.md) | Inspect and test electrical circuits |
 | [AURTTA003](AUR30620/AURTTA003-unit-guide.md) | Diagnose and repair automotive systems and components |
 
-**Next priority:** AURAFA003 (tools and equipment) · AURASA103 (vehicle safety inspections) · AURETR124 (inspect and test electrical circuits) · AURLTX107 (servicing operations)
+**Next priority:** AURLTX107 (servicing operations) · AURBTK102 (brake system checks) · AURETR110/120 (batteries, charging, starting)
 
 #### RII30820 — Certificate III in Civil Construction
-*RII Resources and Infrastructure · 3 of 12 core units*
+*RII Resources and Infrastructure · 4 of 12 core units*
 
 | Document | Unit Title |
 |---|---|
 | [Qualification overview](RII30820/RII30820-qualification-overview.md) | 12 core + 8 elective, Dial Before You Dig, traffic management |
 | [RIIWHS201E](RII30820/RIIWHS201E-unit-guide.md) | Work safely and follow WHS policies and procedures |
 | [RIIRIS301E](RII30820/RIIRIS301E-unit-guide.md) | Apply risk management processes |
+| [RIICCM201D](RII30820/RIICCM201D-unit-guide.md) | Carry out measurements and calculations |
+| [RIIWHS302D](RII30820/RIIWHS302D-unit-guide.md) | Implement traffic management plans |
 
-**Next priority:** RIICCM201D (measurements and calculations) · RIIWHS302D (implement traffic management plans) · RIIWHS202E (confined spaces) · RIICMT201D (basic materials testing)
+**Next priority:** RIIWHS202E (confined spaces) · RIICMT201D (basic materials testing) · RIICWD201D (basic civil construction activities)
+
+---
+
+### 📋 Assessment Example Bank
+
+*17 additional worked examples across all nine qualifications · [assessment-bank/](assessment-bank/)*
+
+Each example provides a prompt, an exemplary response, a plausible-but-insufficient response, and an examiner annotation explaining the difference.
+
+| File | Coverage |
+|---|---|
+| [README](assessment-bank/README.md) | How to use, academic integrity, cross-qualification Competent/NYC patterns |
+| [CHC33021](assessment-bank/chc33021-assessment-bank.md) | Dignity of risk · elder abuse without disclosure · person-centred practice under time pressure |
+| [BSB30120](assessment-bank/bsb30120-assessment-bank.md) | Workplace email from manager's notes · escalated complaint · sustainability within scope |
+| [CPP41419](assessment-bank/cpp41419-assessment-bank.md) | Material fact disclosure · trust account defalcation · underquoting |
+| [ICT30120 & CUA31120](assessment-bank/ict-cua-assessment-bank.md) | Phishing compromise · unauthorised access request · defective consent · damaging client feedback |
+| [Trades](assessment-bank/trades-assessment-bank.md) | Drawing conflict · hot holding breach · parasitic drain · changed ground conditions |
+
+**The insufficient responses are deliberately plausible** — they are the answers students actually write, not strawmen. The diagnostic value is in recognising your own reasoning in them.
 
 ---
 
@@ -205,28 +237,34 @@ A `[VERIFY]` flag is not a defect. It marks content that is correct as written b
 | Asset | Location |
 |---|---|
 | Marketing plan (segments, pricing, go-to-market) | `content/marketing/RTO-RESOURCES-MARKETING-PLAN.md` |
+| **LinkedIn post series — 25 posts written** | `content/marketing/linkedin-post-series.md` |
+| **Email nurture sequences — 15 emails written** | `content/marketing/email-sequences.md` |
+| **Sales page copy — 4 pages** | `content/marketing/sales-page-copy.md` |
 | LinkedIn launch graphic | `content/marketing/rto-resources-linkedin.png` |
 | Free lead magnet briefing | `content/marketing/lead-magnet-free-briefing.md` |
+| Competitive differentiation | `content/marketing/competitive-differentiation.md` |
+| Value proposition library | `content/marketing/value-proposition-library.md` |
 | AI course coach (Iris) spec | `content/product/course-coach-avatar-spec.md` |
 | Mirror reflective journal spec | `content/product/mirror-reflective-journal-spec.md` |
 | Companion resources build map | `content/product/companion-resources-map.md` |
+| Pricing and tiers | `content/product/pricing-and-tiers.md` |
 
 ---
 
 ## Build Priorities
 
-**Commercially releasable now:** CHC33021, BSB30120, CPP41419, ICT30120, CUA31120 — all core units covered, subject to `[VERIFY]` review.
+**Commercially releasable now, subject to `[VERIFY]` review:** CHC33021, BSB30120, CPP41419, ICT30120, CUA31120 — all core units covered.
+
+**Substantial and saleable:** CPC30220 (9 units), SIT30821 (8), AUR30620 (5), RII30820 (4) — the safety-critical and technically demanding core is covered in each.
 
 **Next build phase:**
-1. CPC30220 — 4 further units to cover the practical carpentry core
-2. SIT30821 — 4 further units to cover kitchen operations and WHS
-3. AUR30620 — 4 further units to cover tools, inspection, and electrical
-4. RII30820 — 4 further units to complete the civil core
+1. **Resolve the `[VERIFY]` flags.** This is the gate on commercial release, not further content. Training package currency on training.gov.au is the highest priority, followed by state-specific licensing and the technical standards listed above
+2. **PDF formatting** for commercial release
+3. **Free lead magnets** — the marketing sequences depend on these existing. Assessment sample units (CHC, BSB), ASQA compliance checklist, and the CRICOS eligibility self-assessment are the ones the written email sequences reference
+4. Remaining core units in the four trade packages
+5. Quick reference cards — food safety temperatures, service colour codes, rafter multipliers, fall clearance, allergen matrix, DRMC domains
 
-**Then:**
-5. Assessment example bank — 3 additional worked examples per qualification
-6. PDF formatting for commercial release
-7. Quick reference cards — food safety temperatures, service colour codes, rafter multipliers, fall clearance calculator, allergen matrix, DRMC domains
+**Marketing assets are written and awaiting review.** The LinkedIn series, all three email sequences and four sales pages are drafted with compliance notes. Three constraints are flagged throughout and should not be worked around: no accreditation claims, no use of "nationally recognised training", and Iris and Mirror described as in development rather than available.
 
 ---
 
