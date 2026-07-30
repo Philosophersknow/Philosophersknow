@@ -210,3 +210,17 @@ The errors were found in approximately fifteen minutes of searching, before a fu
 *This report is a draft finding requiring Liam Michael Clancy's review. No finding in it should be treated as authoritative until confirmed against training.gov.au directly.*
 
 *© Liam Michael Clancy / Philosophersknow 2026*
+
+---
+
+## Addendum — 30 July 2026
+
+**Liam has advised he will download the current training packages and validate the core unit lists manually.**
+
+That resolves the principal outstanding item. The residual verification listed above should be worked against the downloaded packaging rules rather than against search results, and this report's method limits then no longer constrain the outcome.
+
+**Two items to carry into that manual validation:**
+
+1. **RII30920 vs RII30820.** Confirm which qualification the pack should target. The content written is general civil construction. If the intended market is plant operators, the pack needs RIIMPO units instead and is a different product.
+2. **AUR30620 Release 17 March 2026.** Compare the library's stated core units against that release specifically — it postdates the drafting.
+
