@@ -2,7 +2,7 @@
 
 **Publisher:** Liam Michael Clancy / Philosophersknow
 **Status:** Draft library — all content requires Liam's review before commercial release
-**Current inventory:** 77 documents · ~200,000 words · 9 training packages
+**Current inventory:** 90 documents · ~245,000 words · 9 training packages
 
 ---
 
@@ -110,6 +110,26 @@ See `content/marketing/RTO-RESOURCES-MARKETING-PLAN.md` for pricing, segments, a
 
 *Remaining core unit BSBCRT311 is covered by the BSB30120 pack — see [BSBCRT311](BSB30120/BSBCRT311-unit-guide.md).*
 
+#### RII30820 — Certificate III in Civil Construction
+*RII Resources and Infrastructure · 13 documents*
+
+| Document | Unit Title |
+|---|---|
+| [Qualification overview](RII30820/RII30820-qualification-overview.md) | 12 core + 8 elective, Dial Before You Dig, traffic management |
+| [RIICCM201D](RII30820/RIICCM201D-unit-guide.md) | Carry out measurements and calculations |
+| [RIICOM201D](RII30820/RIICOM201D-unit-guide.md) | Communicate in the workplace |
+| [RIICMT201D](RII30820/RIICMT201D-unit-guide.md) | Carry out basic materials testing |
+| [RIICWD201D](RII30820/RIICWD201D-unit-guide.md) | Carry out basic civil construction activities |
+| [RIICWD301E](RII30820/RIICWD301E-unit-guide.md) | Perform civil works |
+| [RIICWD302E](RII30820/RIICWD302E-unit-guide.md) | Apply quality standards to civil works |
+| [RIICWM201D](RII30820/RIICWM201D-unit-guide.md) | Follow work processes for civil works measurement |
+| [RIIRIS301E](RII30820/RIIRIS301E-unit-guide.md) | Apply risk management processes |
+| [RIIWHS201E](RII30820/RIIWHS201E-unit-guide.md) | Work safely and follow WHS policies and procedures |
+| [RIIWHS202E](RII30820/RIIWHS202E-unit-guide.md) | Enter and work in confined spaces |
+| [RIIWHS302D](RII30820/RIIWHS302D-unit-guide.md) | Implement traffic management plans |
+
+*[RIIOHS201A](RII30820/RIIOHS201A-note.md) is covered by a cross-reference note rather than a duplicate guide — it substantially replicates RIIWHS201E in superseded OHS terminology. The note includes an OHS-to-WHS mapping table and carries a high-priority `[VERIFY]` on whether the unit remains in current packaging.*
+
 ---
 
 ### 🔨 Substantial coverage — apprenticeship-scale packages
@@ -117,7 +137,7 @@ See `content/marketing/RTO-RESOURCES-MARKETING-PLAN.md` for pricing, segments, a
 These qualifications have 12–21 core units each. The units built are the highest-value ones: the safety-critical units every student must pass, and the technically demanding units where students most need worked examples.
 
 #### CPC30220 — Certificate III in Carpentry
-*CPC Construction, Plumbing and Services · 9 of ~21 core units*
+*CPC Construction, Plumbing and Services · 12 of ~21 core units*
 
 | Document | Unit Title |
 |---|---|
@@ -132,8 +152,10 @@ These qualifications have 12–21 core units each. The units built are the highe
 | [CPCCCA3003](CPC30220/CPCCCA3003-unit-guide.md) | Set out and frame walls and floors |
 | [CPCCCA3002](CPC30220/CPCCCA3002-unit-guide.md) | Set out and frame a roof |
 | [CPCCCA3004](CPC30220/CPCCCA3004-unit-guide.md) | Erect and clad a roof |
+| [CPCCCM2010](CPC30220/CPCCCM2010-unit-guide.md) | Work safely near live electrical sources |
+| [CPCCCM3001](CPC30220/CPCCCM3001-unit-guide.md) | Operate elevated work platforms |
 
-**Next priority:** CPCCCA3005 (sheet flooring and wall cladding) · CPCCCA3007 (fix timber to frames and ceilings) · CPCCCM2007 (explosive power tools)
+**Next priority:** CPCCCM2007 (explosive power tools) · CPCCCA3007 (fix timber to frames and ceilings) · CPCCCA3005 (sheet flooring and wall cladding) · CPCCCA3009 (door and window hardware)
 
 #### SIT30821 — Certificate III in Commercial Cookery
 *SIT Tourism, Travel and Hospitality · 8 of 21 core units*
@@ -166,19 +188,6 @@ These qualifications have 12–21 core units each. The units built are the highe
 | [AURTTA003](AUR30620/AURTTA003-unit-guide.md) | Diagnose and repair automotive systems and components |
 
 **Next priority:** AURLTX107 (servicing operations) · AURBTK102 (brake system checks) · AURETR110/120 (batteries, charging, starting)
-
-#### RII30820 — Certificate III in Civil Construction
-*RII Resources and Infrastructure · 4 of 12 core units*
-
-| Document | Unit Title |
-|---|---|
-| [Qualification overview](RII30820/RII30820-qualification-overview.md) | 12 core + 8 elective, Dial Before You Dig, traffic management |
-| [RIIWHS201E](RII30820/RIIWHS201E-unit-guide.md) | Work safely and follow WHS policies and procedures |
-| [RIIRIS301E](RII30820/RIIRIS301E-unit-guide.md) | Apply risk management processes |
-| [RIICCM201D](RII30820/RIICCM201D-unit-guide.md) | Carry out measurements and calculations |
-| [RIIWHS302D](RII30820/RIIWHS302D-unit-guide.md) | Implement traffic management plans |
-
-**Next priority:** RIIWHS202E (confined spaces) · RIICMT201D (basic materials testing) · RIICWD201D (basic civil construction activities)
 
 ---
 
@@ -253,15 +262,17 @@ A `[VERIFY]` flag is not a defect. It marks content that is correct as written b
 
 ## Build Priorities
 
-**Commercially releasable now, subject to `[VERIFY]` review:** CHC33021, BSB30120, CPP41419, ICT30120, CUA31120 — all core units covered.
+**Core complete, subject to `[VERIFY]` review:** CHC33021, BSB30120, CPP41419, ICT30120, CUA31120, **RII30820** — six of nine packages.
 
-**Substantial and saleable:** CPC30220 (9 units), SIT30821 (8), AUR30620 (5), RII30820 (4) — the safety-critical and technically demanding core is covered in each.
+**Substantial and saleable:** CPC30220 (12 of ~21), SIT30821 (9 of 21), AUR30620 (5 of 20) — the safety-critical and technically demanding core is covered in each.
+
+**Units still to build:** CPC 9 · SIT 12 · AUR 15 = **36 remaining**.
 
 **Next build phase:**
 1. **Resolve the `[VERIFY]` flags.** This is the gate on commercial release, not further content. Training package currency on training.gov.au is the highest priority, followed by state-specific licensing and the technical standards listed above
 2. **PDF formatting** for commercial release
 3. **Free lead magnets** — the marketing sequences depend on these existing. Assessment sample units (CHC, BSB), ASQA compliance checklist, and the CRICOS eligibility self-assessment are the ones the written email sequences reference
-4. Remaining core units in the four trade packages
+4. Remaining core units in CPC, SIT and AUR (36 units)
 5. Quick reference cards — food safety temperatures, service colour codes, rafter multipliers, fall clearance, allergen matrix, DRMC domains
 
 **Marketing assets are written and awaiting review.** The LinkedIn series, all three email sequences and four sales pages are drafted with compliance notes. Three constraints are flagged throughout and should not be worked around: no accreditation claims, no use of "nationally recognised training", and Iris and Mirror described as in development rather than available.
