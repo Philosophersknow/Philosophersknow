@@ -4,7 +4,7 @@
 **Unit Code:** CUAIND311
 **Unit Title:** Develop and apply creative arts industry knowledge
 **Training Package:** CUA Creative Arts and Culture
-**Qualification:** CUA31120 Certificate III in Screen and Media (CORE unit)
+**Qualification:** CUA31020 Certificate III in Screen and Media (CORE unit)
 **AIIPD Resource Pack — Student Edition**
 
 ---
@@ -232,7 +232,7 @@ Check Screen Australia and your state agency for current attachment and placemen
 
 **Prompt:**
 
-*You are about to finish CUA31120 and you live in a regional centre, not a capital city. A friend tells you "there's no screen work outside Sydney and Melbourne — you'll have to move or give up." You have limited savings and cannot relocate immediately.*
+*You are about to finish CUA31020 and you live in a regional centre, not a capital city. A friend tells you "there's no screen work outside Sydney and Melbourne — you'll have to move or give up." You have limited savings and cannot relocate immediately.*
 
 *Research and construct an evidence-based response. What work realistically exists, how would you find it, and what would you do in the next twelve months?*
 
@@ -335,4 +335,4 @@ Relocating with no credits, no reel, no network, and no savings into the most co
 
 *Next: CUADIG303 — Produce and prepare photo images*
 
-*AIIPD RTO Training Resources | CUA31120 Certificate III in Screen and Media | © Liam Michael Clancy / Philosophersknow 2026*
+*AIIPD RTO Training Resources | CUA31020 Certificate III in Screen and Media | © Liam Michael Clancy / Philosophersknow 2026*

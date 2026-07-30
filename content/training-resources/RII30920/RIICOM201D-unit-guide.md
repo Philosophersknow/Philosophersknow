@@ -4,7 +4,7 @@
 **Unit Code:** RIICOM201D
 **Unit Title:** Communicate in the workplace
 **Training Package:** RII Resources and Infrastructure Industry
-**Qualification:** RII30820 Certificate III in Civil Construction (CORE unit)
+**Qualification:** RII30920 Certificate III in Civil Construction — **[VERIFY: core or elective status]**
 **AIIPD Resource Pack — Student Edition**
 
 ---
@@ -398,4 +398,4 @@ Four of these six items are things where a misunderstanding causes an injury or 
 
 *Next: RIICWD201D — Carry out basic civil construction activities*
 
-*AIIPD RTO Training Resources | RII30820 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*
+*AIIPD RTO Training Resources | RII30920 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*

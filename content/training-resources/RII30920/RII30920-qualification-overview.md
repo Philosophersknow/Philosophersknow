@@ -1,10 +1,10 @@
-# RII30820 — Certificate III in Civil Construction
+# RII30920 — Certificate III in Civil Construction
 ## Qualification Overview and Student Resource Guide
 
 **Training Package:** RII — Resources and Infrastructure Industry Training Package
-**Qualification Code:** RII30820
+**Qualification Code:** RII30920
 **AQF Level:** Certificate III
-**Total Units:** 20 (12 core + 8 elective)
+**Total Units:** 25 (8 core + 17 elective) — one specialisation must be completed
 **Typical Duration:** 12–24 months
 **Delivery Mode:** Traineeship, workplace-based, or blended
 
@@ -14,9 +14,19 @@
 
 The Certificate III in Civil Construction provides the skills and knowledge for workers in civil construction — roads, earthworks, drainage, utilities infrastructure, and civil maintenance. Civil construction underpins all other built infrastructure: without civil construction workers, roads do not exist, water cannot be reticulated, and buildings have no foundations.
 
-Workers with this qualification typically operate plant, perform civil construction tasks, and contribute to the construction and maintenance of public infrastructure.
+Workers with this qualification perform civil construction tasks and contribute to the construction and maintenance of public infrastructure.
 
-**[VERIFY: RII30820 is the current qualification code. The RII training package covers civil construction. Confirm on training.gov.au. Previous code RII30815 may be in use in some organisations.]**
+> ### ⚠️ Qualification code and packaging corrected — 30 July 2026
+>
+> This pack was originally built under **RII30820**, which is in fact **Certificate III in Civil Construction *Plant Operations*** — a plant operator qualification built around RIIMPO plant operation units. The general civil construction qualification is **RII30920**, and the pack has been re-badged accordingly.
+>
+> **RII30920 packaging:** 25 units — **8 core + 17 elective** — structured across **9 specialisations** (8 specialist and 1 general). The core and elective requirements of **one specialisation** must be met for the qualification to be awarded.
+>
+> **[VERIFY: the 8 core units of RII30920, the 9 specialisation names, and their elective requirements have NOT been confirmed against training.gov.au. The unit list below is retained from the original draft and its core/elective status is unverified.]**
+>
+> See [VERIFICATION-REPORT-2026-07-30.md](../VERIFICATION-REPORT-2026-07-30.md), Finding 1.
+>
+> **If you are looking for the plant operations qualification (RII30820), this pack does not cover it** — no RIIMPO plant operation unit guides have been written.
 
 ---
 
@@ -49,7 +59,9 @@ Workers with this qualification typically operate plant, perform civil construct
 
 ---
 
-## Core Units (All 12 Must Be Completed)
+## Units Covered by This Pack
+
+**⚠️ Core/elective status unverified.** RII30920 has **8 core units**; this pack contains 11 unit guides, so several are necessarily electives. The guides remain valid as unit guides regardless of packaging status.
 
 | Unit Code | Unit Title |
 |---|---|
@@ -66,7 +78,7 @@ Workers with this qualification typically operate plant, perform civil construct
 | RIIOHS201A | Follow OHS policies and procedures at worksites |
 | RIICWD302E | Apply quality standards to civil works |
 
-**[VERIFY: Core unit list against current RII30820 packaging rules — RII units are frequently updated and the packaging rules changed with the RII30820 version.]**
+**[VERIFY: Core unit list against current RII30920 packaging rules — RII units are frequently updated and the packaging rules changed with the RII30920 version.]**
 
 ---
 
@@ -155,4 +167,4 @@ Civil construction has significant environmental impact. Key obligations:
 
 *Resources mapped to RII Resources and Infrastructure Industry Training Package (current version). Verify unit codes on training.gov.au. These resources are for educational purposes and do not constitute professional engineering advice.*
 
-*AIIPD RTO Training Resources | RII30820 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*
+*AIIPD RTO Training Resources | RII30920 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*

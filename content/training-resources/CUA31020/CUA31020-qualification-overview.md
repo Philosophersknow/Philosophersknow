@@ -1,8 +1,8 @@
-# CUA31120 — Certificate III in Screen and Media
+# CUA31020 — Certificate III in Screen and Media
 ## Qualification Overview and Student Resource Guide
 
 **Training Package:** CUA — Creative Arts and Culture Training Package
-**Qualification Code:** CUA31120
+**Qualification Code:** CUA31020
 **AQF Level:** Certificate III
 **Total Units:** 16 (6 core + 10 elective)
 **Typical Duration:** 12–18 months
@@ -14,7 +14,7 @@
 
 The Certificate III in Screen and Media provides foundational skills for people working in screen production, digital media, broadcast, and related creative technology industries. It covers content creation, media production, digital storytelling, and the technical and creative skills needed to work in a production environment.
 
-**[VERIFY: CUA31120 is the current qualification code. The CUA training package is updated. Confirm on training.gov.au. Note: some states/RTOs may offer the qualification under an older code (CUA31020 or earlier).]**
+**[VERIFY: CUA31020 is the current qualification code. The CUA training package is updated. Confirm on training.gov.au. Note: some states/RTOs may offer the qualification under an older code (CUA31020 or earlier).]**
 
 ---
 
@@ -58,7 +58,7 @@ The screen and media industry has a high proportion of freelance and contract wo
 | CUAPPR311 | Develop and apply techniques to document and present ideas |
 | CUASOU313 | Record sound |
 
-**[VERIFY: Core unit list against current CUA31120 packaging rules on training.gov.au.]**
+**[VERIFY: Core unit list against current CUA31020 packaging rules on training.gov.au.]**
 
 ---
 
@@ -186,4 +186,4 @@ All productions must have a WHS plan. Students must demonstrate WHS awareness in
 
 *Resources mapped to CUA Creative Arts and Culture Training Package (current version). Verify unit codes on training.gov.au. These resources are for educational purposes.*
 
-*AIIPD RTO Training Resources | CUA31120 Certificate III in Screen and Media | © Liam Michael Clancy / Philosophersknow 2026*
+*AIIPD RTO Training Resources | CUA31020 Certificate III in Screen and Media | © Liam Michael Clancy / Philosophersknow 2026*

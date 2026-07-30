@@ -4,7 +4,7 @@
 **Unit Code:** RIICWD201D
 **Unit Title:** Carry out basic civil construction activities
 **Training Package:** RII Resources and Infrastructure Industry
-**Qualification:** RII30820 Certificate III in Civil Construction (CORE unit)
+**Qualification:** RII30920 Certificate III in Civil Construction — **[VERIFY: core or elective status]**
 **AIIPD Resource Pack — Student Edition**
 
 ---
@@ -373,4 +373,4 @@ But **the time saved is measured in hours and the consequence is measured in yea
 
 *Next: RIICWD302E — Apply quality standards to civil works*
 
-*AIIPD RTO Training Resources | RII30820 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*
+*AIIPD RTO Training Resources | RII30920 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*

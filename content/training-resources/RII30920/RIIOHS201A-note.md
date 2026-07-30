@@ -3,7 +3,7 @@
 
 **Unit Code:** RIIOHS201A
 **Training Package:** RII Resources and Infrastructure Industry
-**Qualification:** RII30820 Certificate III in Civil Construction
+**Qualification:** RII30920 Certificate III in Civil Construction
 **AIIPD Resource Pack — Editorial Note**
 
 ---
@@ -25,10 +25,10 @@ Writing a second guide covering the same competency in superseded terminology wo
 
 ### 2. Its inclusion in current packaging requires verification
 
-**[VERIFY: RIIOHS201A appeared in the core unit list drawn from the qualification overview during resource development, but its currency and inclusion in the current RII30820 packaging rules requires confirmation on training.gov.au.**
+**[VERIFY: RIIOHS201A appeared in the core unit list drawn from the qualification overview during resource development, but its currency and inclusion in the current RII30920 packaging rules requires confirmation on training.gov.au.**
 
 **Specifically confirm:**
-- Whether RIIOHS201A remains a core unit of the current RII30820, or has been superseded by RIIWHS201E
+- Whether RIIOHS201A remains a core unit of the current RII30920, or has been superseded by RIIWHS201E
 - Whether both appear (which would be unusual given the overlap)
 - Whether RIIOHS201A has been superseded by, or is equivalent to, another unit code
 - The current status of the unit itself — current, superseded, or deleted
@@ -96,6 +96,6 @@ An assessment tool referring to "employers" and "employees" and "so far as is pr
 
 ---
 
-*This note requires resolution of the verification items above before the RII30820 pack is released commercially.*
+*This note requires resolution of the verification items above before the RII30920 pack is released commercially.*
 
-*AIIPD RTO Training Resources | RII30820 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*
+*AIIPD RTO Training Resources | RII30920 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*

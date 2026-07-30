@@ -4,7 +4,7 @@
 **Unit Code:** CUAIND312
 **Unit Title:** Work effectively in the creative arts industry
 **Training Package:** CUA Creative Arts and Culture
-**Qualification:** CUA31120 Certificate III in Screen and Media (CORE unit)
+**Qualification:** CUA31020 Certificate III in Screen and Media (CORE unit)
 **AIIPD Resource Pack — Student Edition**
 
 ---
@@ -296,4 +296,4 @@ That is professional, brief, and does not read as difficult. A production compan
 
 *Next: CUAIND311 — Develop and apply creative arts industry knowledge*
 
-*AIIPD RTO Training Resources | CUA31120 Certificate III in Screen and Media | © Liam Michael Clancy / Philosophersknow 2026*
+*AIIPD RTO Training Resources | CUA31020 Certificate III in Screen and Media | © Liam Michael Clancy / Philosophersknow 2026*

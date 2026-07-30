@@ -4,7 +4,7 @@
 **Unit Code:** RIICCM201D
 **Unit Title:** Carry out measurements and calculations
 **Training Package:** RII Resources and Infrastructure Industry
-**Qualification:** RII30820 Certificate III in Civil Construction (CORE unit)
+**Qualification:** RII30920 Certificate III in Civil Construction — **[VERIFY: core or elective status]**
 **AIIPD Resource Pack — Student Edition**
 
 ---
@@ -489,4 +489,4 @@ If either had come out smaller, I would have divided where I should have multipl
 
 *Next: RIIWHS302D — Implement traffic management plans*
 
-*AIIPD RTO Training Resources | RII30820 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*
+*AIIPD RTO Training Resources | RII30920 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*

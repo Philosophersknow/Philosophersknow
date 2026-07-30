@@ -4,7 +4,7 @@
 **Unit Code:** RIICWD302E
 **Unit Title:** Apply quality standards to civil works
 **Training Package:** RII Resources and Infrastructure Industry
-**Qualification:** RII30820 Certificate III in Civil Construction (CORE unit)
+**Qualification:** RII30920 Certificate III in Civil Construction — **[VERIFY: core or elective status]**
 **AIIPD Resource Pack — Student Edition**
 
 ---
@@ -365,4 +365,4 @@ The leading hand and I agree on the risk. We disagree on the response.
 
 *Next: RIICWM201D — Follow work processes for civil works measurement*
 
-*AIIPD RTO Training Resources | RII30820 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*
+*AIIPD RTO Training Resources | RII30920 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*

@@ -494,7 +494,7 @@ ISO accreditation is a credibility signal in the RTO market, particularly for cl
 - [ ] ICT — Certificate IV Information Technology (ICT40120)
 - [ ] CUA — Certificate IV Screen and Media (CUA41020)
 - [ ] AUR — Select Certificate III Automotive (AUR30620) units
-- [ ] RII — Select Civil Construction units (RII30820)
+- [ ] RII — Select Civil Construction units (RII30920 — note RII30820 is Civil Construction *Plant Operations*, a separate qualification)
 
 ### Resource Template for Each Qualification
 

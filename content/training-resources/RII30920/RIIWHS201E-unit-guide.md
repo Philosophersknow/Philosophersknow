@@ -4,7 +4,7 @@
 **Unit Code:** RIIWHS201E
 **Unit Title:** Work safely and follow WHS policies and procedures
 **Training Package:** RII Resources and Infrastructure Industry
-**Qualification:** RII30820 Certificate III in Civil Construction (CORE unit)
+**Qualification:** RII30920 Certificate III in Civil Construction — **[VERIFY: core or elective status]**
 **AIIPD Resource Pack — Student Edition**
 
 ---
@@ -389,4 +389,4 @@ I would record the hazard on a hazard report regardless of the outcome, so there
 
 *Next: RIIRIS301E — Apply risk management processes*
 
-*AIIPD RTO Training Resources | RII30820 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*
+*AIIPD RTO Training Resources | RII30920 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*

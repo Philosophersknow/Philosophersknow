@@ -4,7 +4,7 @@
 **Unit Code:** CUAPPR311
 **Unit Title:** Develop and apply techniques to document and present ideas
 **Training Package:** CUA Creative Arts and Culture
-**Qualification:** CUA31120 Certificate III in Screen and Media (CORE unit)
+**Qualification:** CUA31020 Certificate III in Screen and Media (CORE unit)
 **AIIPD Resource Pack — Student Edition**
 
 ---
@@ -343,8 +343,8 @@ So the approach I would lean toward is **honest and understated rather than ener
 
 ---
 
-*This completes the CUA31120 core unit guide series.*
+*This completes the CUA31020 core unit guide series.*
 
-*Note: BSBCRT311 (Apply critical thinking skills in a team environment) is also core to CUA31120. See the BSB30120 pack for [BSBCRT311](../BSB30120/BSBCRT311-unit-guide.md).*
+*Note: BSBCRT311 (Apply critical thinking skills in a team environment) is also core to CUA31020. See the BSB30120 pack for [BSBCRT311](../BSB30120/BSBCRT311-unit-guide.md).*
 
-*AIIPD RTO Training Resources | CUA31120 Certificate III in Screen and Media | © Liam Michael Clancy / Philosophersknow 2026*
+*AIIPD RTO Training Resources | CUA31020 Certificate III in Screen and Media | © Liam Michael Clancy / Philosophersknow 2026*

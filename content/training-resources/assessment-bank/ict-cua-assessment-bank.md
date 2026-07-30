@@ -1,4 +1,4 @@
-# ICT30120 & CUA31120 — Assessment Example Bank
+# ICT30120 & CUA31020 — Assessment Example Bank
 ## Certificate III in Information Technology · Certificate III in Screen and Media
 
 **AIIPD RTO Training Resources — Student Edition**
@@ -514,4 +514,4 @@ The response would keep the client comfortable and produce a worse film that ser
 
 ---
 
-*AIIPD RTO Training Resources | ICT30120 · CUA31120 | © Liam Michael Clancy / Philosophersknow 2026*
+*AIIPD RTO Training Resources | ICT30120 · CUA31020 | © Liam Michael Clancy / Philosophersknow 2026*

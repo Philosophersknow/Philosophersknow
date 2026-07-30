@@ -4,7 +4,7 @@
 **Unit Code:** RIICWM201D
 **Unit Title:** Follow work processes for civil works measurement
 **Training Package:** RII Resources and Infrastructure Industry
-**Qualification:** RII30820 Certificate III in Civil Construction (CORE unit)
+**Qualification:** RII30920 Certificate III in Civil Construction — **[VERIFY: core or elective status]**
 **AIIPD Resource Pack — Student Edition**
 
 ---
@@ -357,4 +357,4 @@ That is a supervisor and project manager matter, but the observation comes from 
 
 *Next: RIICWD301E — Perform civil works*
 
-*AIIPD RTO Training Resources | RII30820 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*
+*AIIPD RTO Training Resources | RII30920 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*

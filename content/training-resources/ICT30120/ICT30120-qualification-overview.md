@@ -4,7 +4,7 @@
 **Training Package:** ICT — Information and Communications Technology Training Package
 **Qualification Code:** ICT30120
 **AQF Level:** Certificate III
-**Total Units:** 18 (6 core + 12 elective)
+**Total Units:** 12 (6 core + 6 elective)
 **Typical Duration:** 12–18 months
 **Delivery Mode:** Full-time, part-time, blended, online
 
@@ -67,9 +67,9 @@ Information technology is one of the fastest-growing sectors in the Australian e
 
 ## Elective Groups — Key Focus Areas
 
-Electives must come from designated groups. Common combinations for popular job roles:
+**Six electives are required.** They must come from designated groups. Common combinations for popular job roles:
 
-### IT Support Focus (12 electives)
+### IT Support Focus
 - ICTICT307 — Customise and configure personal devices
 - ICTSAS307 — Manage client problems
 - ICTPRG302 — Apply introductory programming techniques

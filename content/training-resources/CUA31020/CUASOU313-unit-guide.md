@@ -4,7 +4,7 @@
 **Unit Code:** CUASOU313
 **Unit Title:** Record sound
 **Training Package:** CUA Creative Arts and Culture
-**Qualification:** CUA31120 Certificate III in Screen and Media (CORE unit)
+**Qualification:** CUA31020 Certificate III in Screen and Media (CORE unit)
 **AIIPD Resource Pack — Student Edition**
 
 ---
@@ -355,4 +355,4 @@ The lavalier is the right choice here because:
 
 *Next: CUAPPR311 — Develop and apply techniques to document and present ideas*
 
-*AIIPD RTO Training Resources | CUA31120 Certificate III in Screen and Media | © Liam Michael Clancy / Philosophersknow 2026*
+*AIIPD RTO Training Resources | CUA31020 Certificate III in Screen and Media | © Liam Michael Clancy / Philosophersknow 2026*

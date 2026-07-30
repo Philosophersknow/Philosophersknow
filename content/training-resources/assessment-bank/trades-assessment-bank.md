@@ -1,5 +1,5 @@
 # Trades — Assessment Example Bank
-## CPC30220 · SIT30821 · AUR30620 · RII30820
+## CPC30220 · SIT30821 · AUR30620 · RII30920
 
 **AIIPD RTO Training Resources — Student Edition**
 
@@ -363,7 +363,7 @@ This is the parts-replacement failure mode in its clearest form: a plausible-sou
 
 ---
 
-## Example 4 — RII30820 Civil Construction: Changed Ground Conditions
+## Example 4 — RII30920 Civil Construction: Changed Ground Conditions
 
 **Units: RIIRIS301E, RIIWHS201E, RIICCM201D**
 
@@ -493,4 +493,4 @@ The student's instinct — raise the concern, propose a mitigation — looks res
 
 ---
 
-*AIIPD RTO Training Resources | CPC30220 · SIT30821 · AUR30620 · RII30820 | © Liam Michael Clancy / Philosophersknow 2026*
+*AIIPD RTO Training Resources | CPC30220 · SIT30821 · AUR30620 · RII30920 | © Liam Michael Clancy / Philosophersknow 2026*

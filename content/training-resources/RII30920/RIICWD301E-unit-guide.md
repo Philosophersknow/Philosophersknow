@@ -4,7 +4,7 @@
 **Unit Code:** RIICWD301E
 **Unit Title:** Perform civil works
 **Training Package:** RII Resources and Infrastructure Industry
-**Qualification:** RII30820 Certificate III in Civil Construction (CORE unit)
+**Qualification:** RII30920 Certificate III in Civil Construction — **[VERIFY: core or elective status]**
 **AIIPD Resource Pack — Student Edition**
 
 ---
@@ -386,8 +386,8 @@ The services drawing shows it crossing the alignment. What I need to know before
 
 ---
 
-*This completes the RII30820 core unit guide series.*
+*This completes the RII30920 core unit guide series.*
 
 *Note on RIIOHS201A: see [RIIOHS201A-note.md](RIIOHS201A-note.md).*
 
-*AIIPD RTO Training Resources | RII30820 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*
+*AIIPD RTO Training Resources | RII30920 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*

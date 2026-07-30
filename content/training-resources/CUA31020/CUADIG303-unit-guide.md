@@ -4,7 +4,7 @@
 **Unit Code:** CUADIG303
 **Unit Title:** Produce and prepare photo images
 **Training Package:** CUA Creative Arts and Culture
-**Qualification:** CUA31120 Certificate III in Screen and Media (CORE unit)
+**Qualification:** CUA31020 Certificate III in Screen and Media (CORE unit)
 **AIIPD Resource Pack — Student Edition**
 
 ---
@@ -402,4 +402,4 @@ I would set for the constraint that matters most first, then compensate.
 
 *Next: CUASOU313 — Record sound*
 
-*AIIPD RTO Training Resources | CUA31120 Certificate III in Screen and Media | © Liam Michael Clancy / Philosophersknow 2026*
+*AIIPD RTO Training Resources | CUA31020 Certificate III in Screen and Media | © Liam Michael Clancy / Philosophersknow 2026*

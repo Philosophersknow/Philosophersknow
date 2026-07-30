@@ -4,7 +4,7 @@
 **Unit Code:** RIIRIS301E
 **Unit Title:** Apply risk management processes
 **Training Package:** RII Resources and Infrastructure Industry
-**Qualification:** RII30820 Certificate III in Civil Construction (CORE unit)
+**Qualification:** RII30920 Certificate III in Civil Construction — **[VERIFY: core or elective status]**
 **AIIPD Resource Pack — Student Edition**
 
 ---
@@ -497,4 +497,4 @@ I would develop this assessment **with the crew**, not for them — through the 
 
 *Next: RIICCM201D — Carry out measurements and calculations*
 
-*AIIPD RTO Training Resources | RII30820 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*
+*AIIPD RTO Training Resources | RII30920 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*

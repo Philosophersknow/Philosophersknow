@@ -4,7 +4,7 @@
 **Unit Code:** RIIWHS202E
 **Unit Title:** Enter and work in confined spaces
 **Training Package:** RII Resources and Infrastructure Industry
-**Qualification:** RII30820 Certificate III in Civil Construction (CORE unit)
+**Qualification:** RII30920 Certificate III in Civil Construction — **[VERIFY: core or elective status]**
 **AIIPD Resource Pack — Student Edition**
 
 ---
@@ -423,4 +423,4 @@ Nothing about it looks dramatic. It is a pit, a ladder, a blockage and a five-mi
 
 *Next: RIICMT201D — Carry out basic materials testing*
 
-*AIIPD RTO Training Resources | RII30820 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*
+*AIIPD RTO Training Resources | RII30920 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*

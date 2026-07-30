@@ -2,7 +2,19 @@
 
 **Publisher:** Liam Michael Clancy / Philosophersknow
 **Status:** Draft library — all content requires Liam's review before commercial release
-**Current inventory:** 90 documents · ~245,000 words · 9 training packages
+**Current inventory:** 91 documents · ~248,000 words · 9 training packages
+
+> ### ⚠️ Verification pass completed 30 July 2026 — three material errors found and corrected
+>
+> **Read [VERIFICATION-REPORT-2026-07-30.md](VERIFICATION-REPORT-2026-07-30.md) before using or selling any of this.**
+>
+> | Finding | Action taken |
+> |---|---|
+> | **CUA31120 does not exist** — the code is **CUA31020** | Pack re-badged; core unit list still unconfirmed |
+> | **RII30820 is *Plant Operations*** — the general qualification is **RII30920** (8 core + 17 elective, 9 specialisations) | Pack re-badged; packaging corrected; core/elective status of each unit now flagged unverified |
+> | **ICT30120 packaging wrong** — 12 units (6 core + 6 elective), not 18 | Corrected |
+>
+> **Six of nine qualification codes were confirmed current.** No core unit list in this library has been confirmed unit-by-unit against training.gov.au — direct register access was blocked by this session's egress policy. **AUR30620 has a release dated 17 March 2026 and is the highest-priority remaining check.**
 
 ---
 
@@ -37,6 +49,8 @@ See `content/marketing/RTO-RESOURCES-MARKETING-PLAN.md` for pricing, segments, a
 ## Coverage by Training Package
 
 ### ✅ Core complete — every core unit covered
+
+*Subject to core lists being confirmed against training.gov.au. See the verification report.*
 
 #### CHC33021 — Certificate III in Individual Support
 *CHC Community Services · 8 documents*
@@ -88,7 +102,7 @@ See `content/marketing/RTO-RESOURCES-MARKETING-PLAN.md` for pricing, segments, a
 
 | Document | Unit Title |
 |---|---|
-| [Qualification overview](ICT30120/ICT30120-qualification-overview.md) | 6 core + 12 elective, employment pathways |
+| [Qualification overview](ICT30120/ICT30120-qualification-overview.md) | 6 core + 6 elective (12 units), employment pathways |
 | [BSBXCS303](ICT30120/BSBXCS303-unit-guide.md) | Securely manage personally identifiable and workplace information |
 | [ICTICT313](ICT30120/ICTICT313-unit-guide.md) | Identify IP, ethics and privacy policies in ICT environments |
 | [ICTICT323](ICT30120/ICTICT323-unit-guide.md) | Align work practices with the ICT industry environment |
@@ -96,39 +110,43 @@ See `content/marketing/RTO-RESOURCES-MARKETING-PLAN.md` for pricing, segments, a
 
 *Remaining core units BSBSUS211 and BSBCRT301 are covered by the BSB30120 pack — see [BSBSUS211](BSB30120/BSBSUS211-unit-guide.md) and [BSBCRT311](BSB30120/BSBCRT311-unit-guide.md).*
 
-#### CUA31120 — Certificate III in Screen and Media
-*CUA Creative Arts and Culture · 6 documents*
+#### CUA31020 — Certificate III in Screen and Media
+*CUA Creative Arts and Culture · 6 documents* · ⚠️ **re-badged from CUA31120 — core list unconfirmed**
 
 | Document | Unit Title |
 |---|---|
-| [Qualification overview](CUA31120/CUA31120-qualification-overview.md) | 6 core + 10 elective, production phases, copyright |
-| [CUADIG303](CUA31120/CUADIG303-unit-guide.md) | Produce and prepare photo images |
-| [CUAIND311](CUA31120/CUAIND311-unit-guide.md) | Develop and apply creative arts industry knowledge |
-| [CUAIND312](CUA31120/CUAIND312-unit-guide.md) | Work effectively in the creative arts industry |
-| [CUAPPR311](CUA31120/CUAPPR311-unit-guide.md) | Develop and apply techniques to document and present ideas |
-| [CUASOU313](CUA31120/CUASOU313-unit-guide.md) | Record sound |
+| [Qualification overview](CUA31020/CUA31020-qualification-overview.md) | 6 core + 10 elective, production phases, copyright |
+| [CUADIG303](CUA31020/CUADIG303-unit-guide.md) | Produce and prepare photo images |
+| [CUAIND311](CUA31020/CUAIND311-unit-guide.md) | Develop and apply creative arts industry knowledge |
+| [CUAIND312](CUA31020/CUAIND312-unit-guide.md) | Work effectively in the creative arts industry |
+| [CUAPPR311](CUA31020/CUAPPR311-unit-guide.md) | Develop and apply techniques to document and present ideas |
+| [CUASOU313](CUA31020/CUASOU313-unit-guide.md) | Record sound |
 
 *Remaining core unit BSBCRT311 is covered by the BSB30120 pack — see [BSBCRT311](BSB30120/BSBCRT311-unit-guide.md).*
 
-#### RII30820 — Certificate III in Civil Construction
-*RII Resources and Infrastructure · 13 documents*
+**⚠️ These six units were drawn from an assumed CUA31120 core list. They require confirmation against the actual CUA31020 core units before this package is described as core complete.**
+
+#### RII30920 — Certificate III in Civil Construction
+*RII Resources and Infrastructure · 13 documents* · ⚠️ **re-badged from RII30820 — core/elective status unconfirmed**
+
+**RII30920 has 8 core units across 9 specialisations. This pack contains 11 unit guides, so several are electives.** Which are which is unverified. The guides remain valid as unit guides regardless.
 
 | Document | Unit Title |
 |---|---|
-| [Qualification overview](RII30820/RII30820-qualification-overview.md) | 12 core + 8 elective, Dial Before You Dig, traffic management |
-| [RIICCM201D](RII30820/RIICCM201D-unit-guide.md) | Carry out measurements and calculations |
-| [RIICOM201D](RII30820/RIICOM201D-unit-guide.md) | Communicate in the workplace |
-| [RIICMT201D](RII30820/RIICMT201D-unit-guide.md) | Carry out basic materials testing |
-| [RIICWD201D](RII30820/RIICWD201D-unit-guide.md) | Carry out basic civil construction activities |
-| [RIICWD301E](RII30820/RIICWD301E-unit-guide.md) | Perform civil works |
-| [RIICWD302E](RII30820/RIICWD302E-unit-guide.md) | Apply quality standards to civil works |
-| [RIICWM201D](RII30820/RIICWM201D-unit-guide.md) | Follow work processes for civil works measurement |
-| [RIIRIS301E](RII30820/RIIRIS301E-unit-guide.md) | Apply risk management processes |
-| [RIIWHS201E](RII30820/RIIWHS201E-unit-guide.md) | Work safely and follow WHS policies and procedures |
-| [RIIWHS202E](RII30820/RIIWHS202E-unit-guide.md) | Enter and work in confined spaces |
-| [RIIWHS302D](RII30820/RIIWHS302D-unit-guide.md) | Implement traffic management plans |
+| [Qualification overview](RII30920/RII30920-qualification-overview.md) | 25 units: 8 core + 17 elective, 9 specialisations |
+| [RIICCM201D](RII30920/RIICCM201D-unit-guide.md) | Carry out measurements and calculations |
+| [RIICOM201D](RII30920/RIICOM201D-unit-guide.md) | Communicate in the workplace |
+| [RIICMT201D](RII30920/RIICMT201D-unit-guide.md) | Carry out basic materials testing |
+| [RIICWD201D](RII30920/RIICWD201D-unit-guide.md) | Carry out basic civil construction activities |
+| [RIICWD301E](RII30920/RIICWD301E-unit-guide.md) | Perform civil works |
+| [RIICWD302E](RII30920/RIICWD302E-unit-guide.md) | Apply quality standards to civil works |
+| [RIICWM201D](RII30920/RIICWM201D-unit-guide.md) | Follow work processes for civil works measurement |
+| [RIIRIS301E](RII30920/RIIRIS301E-unit-guide.md) | Apply risk management processes |
+| [RIIWHS201E](RII30920/RIIWHS201E-unit-guide.md) | Work safely and follow WHS policies and procedures |
+| [RIIWHS202E](RII30920/RIIWHS202E-unit-guide.md) | Enter and work in confined spaces |
+| [RIIWHS302D](RII30920/RIIWHS302D-unit-guide.md) | Implement traffic management plans |
 
-*[RIIOHS201A](RII30820/RIIOHS201A-note.md) is covered by a cross-reference note rather than a duplicate guide — it substantially replicates RIIWHS201E in superseded OHS terminology. The note includes an OHS-to-WHS mapping table and carries a high-priority `[VERIFY]` on whether the unit remains in current packaging.*
+*[RIIOHS201A](RII30920/RIIOHS201A-note.md) is covered by a cross-reference note rather than a duplicate guide — it substantially replicates RIIWHS201E in superseded OHS terminology. The note includes an OHS-to-WHS mapping table and carries a high-priority `[VERIFY]` on whether the unit remains in current packaging.*
 
 ---
 
@@ -203,7 +221,7 @@ Each example provides a prompt, an exemplary response, a plausible-but-insuffici
 | [CHC33021](assessment-bank/chc33021-assessment-bank.md) | Dignity of risk · elder abuse without disclosure · person-centred practice under time pressure |
 | [BSB30120](assessment-bank/bsb30120-assessment-bank.md) | Workplace email from manager's notes · escalated complaint · sustainability within scope |
 | [CPP41419](assessment-bank/cpp41419-assessment-bank.md) | Material fact disclosure · trust account defalcation · underquoting |
-| [ICT30120 & CUA31120](assessment-bank/ict-cua-assessment-bank.md) | Phishing compromise · unauthorised access request · defective consent · damaging client feedback |
+| [ICT30120 & CUA31020](assessment-bank/ict-cua-assessment-bank.md) | Phishing compromise · unauthorised access request · defective consent · damaging client feedback |
 | [Trades](assessment-bank/trades-assessment-bank.md) | Drawing conflict · hot holding breach · parasitic drain · changed ground conditions |
 
 **The insufficient responses are deliberately plausible** — they are the answers students actually write, not strawmen. The diagnostic value is in recognising your own reasoning in them.
@@ -262,14 +280,16 @@ A `[VERIFY]` flag is not a defect. It marks content that is correct as written b
 
 ## Build Priorities
 
-**Core complete, subject to `[VERIFY]` review:** CHC33021, BSB30120, CPP41419, ICT30120, CUA31120, **RII30820** — six of nine packages.
+**Core complete, subject to core lists being confirmed:** CHC33021, BSB30120, CPP41419, ICT30120 — four packages with reasonable confidence.
+
+**Re-badged and requiring core list confirmation before any "core complete" claim:** CUA31020, RII30920.
 
 **Substantial and saleable:** CPC30220 (12 of ~21), SIT30821 (9 of 21), AUR30620 (5 of 20) — the safety-critical and technically demanding core is covered in each.
 
 **Units still to build:** CPC 9 · SIT 12 · AUR 15 = **36 remaining**.
 
 **Next build phase:**
-1. **Resolve the `[VERIFY]` flags.** This is the gate on commercial release, not further content. Training package currency on training.gov.au is the highest priority, followed by state-specific licensing and the technical standards listed above
+1. **Finish the register verification.** The 30 July pass confirmed qualification codes and found three errors; it did **not** confirm any core unit list. Priority order: AUR30620 (Mar 2026 release), RII30920 core list, CUA31020 core list, CPC30220 against Release 5, then CHC/SIT/CPP core lists. **This requires direct training.gov.au access, which was blocked in the session that produced the report**
 2. **PDF formatting** for commercial release
 3. **Free lead magnets** — the marketing sequences depend on these existing. Assessment sample units (CHC, BSB), ASQA compliance checklist, and the CRICOS eligibility self-assessment are the ones the written email sequences reference
 4. Remaining core units in CPC, SIT and AUR (36 units)

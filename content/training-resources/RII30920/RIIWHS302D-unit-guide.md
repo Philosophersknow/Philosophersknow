@@ -4,7 +4,7 @@
 **Unit Code:** RIIWHS302D
 **Unit Title:** Implement traffic management plans
 **Training Package:** RII Resources and Infrastructure Industry
-**Qualification:** RII30820 Certificate III in Civil Construction (CORE unit)
+**Qualification:** RII30920 Certificate III in Civil Construction — **[VERIFY: core or elective status]**
 **AIIPD Resource Pack — Student Edition**
 
 ---
@@ -410,6 +410,6 @@ Every one of these five departures happened for an understandable reason — the
 
 ---
 
-*This completes the current RII30820 unit guide series.*
+*This completes the current RII30920 unit guide series.*
 
-*AIIPD RTO Training Resources | RII30820 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*
+*AIIPD RTO Training Resources | RII30920 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*

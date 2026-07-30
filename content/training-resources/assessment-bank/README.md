@@ -56,7 +56,7 @@ Every example follows the same four-part structure:
 | CHC33021 Individual Support | [chc33021-assessment-bank.md](chc33021-assessment-bank.md) | 3 |
 | BSB30120 Business | [bsb30120-assessment-bank.md](bsb30120-assessment-bank.md) | 3 |
 | CPP41419 Real Estate Practice | [cpp41419-assessment-bank.md](cpp41419-assessment-bank.md) | 3 |
-| ICT30120 & CUA31120 | [ict-cua-assessment-bank.md](ict-cua-assessment-bank.md) | 4 |
+| ICT30120 & CUA31020 | [ict-cua-assessment-bank.md](ict-cua-assessment-bank.md) | 4 |
 | Trades — CPC, SIT, AUR, RII | [trades-assessment-bank.md](trades-assessment-bank.md) | 4 |
 
 ---

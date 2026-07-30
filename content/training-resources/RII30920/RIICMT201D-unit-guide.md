@@ -4,7 +4,7 @@
 **Unit Code:** RIICMT201D
 **Unit Title:** Carry out basic materials testing
 **Training Package:** RII Resources and Infrastructure Industry
-**Qualification:** RII30820 Certificate III in Civil Construction (CORE unit)
+**Qualification:** RII30920 Certificate III in Civil Construction — **[VERIFY: core or elective status]**
 **AIIPD Resource Pack — Student Edition**
 
 ---
@@ -419,4 +419,4 @@ The asphalt booking is a scheduling cost. A failed pavement is a rehabilitation 
 
 *Next: RIICWD201D — Carry out basic civil construction activities*
 
-*AIIPD RTO Training Resources | RII30820 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*
+*AIIPD RTO Training Resources | RII30920 Certificate III in Civil Construction | © Liam Michael Clancy / Philosophersknow 2026*
